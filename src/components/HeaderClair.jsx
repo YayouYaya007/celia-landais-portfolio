@@ -11,7 +11,7 @@ export default function Header() {
         <Link to="/">
           <img
             className="logoimg"
-            src="/src/assets/logo/logopetit.png"
+            src="/public/assets/logo/logopetit.png"
             alt="Logo"
             style={{ width: "55px" }}
           />
@@ -32,7 +32,7 @@ export default function Header() {
             >
               <img
                 className="icon"
-                src="/src/assets/icone/githubblanc.svg"
+                src="/public/assets/icone/githubblanc.svg"
                 alt="GitHub"
               />
             </a>
@@ -44,7 +44,7 @@ export default function Header() {
             >
               <img
                 className="icon"
-                src="/src/assets/icone/linkedinblanc.svg"
+                src="/public/assets/icone/linkedinblanc.svg"
                 alt="LinkedIn"
               />
             </a>
@@ -55,7 +55,7 @@ export default function Header() {
             >
               <img
                 className="icon"
-                src="/src/assets/icone/instagramblanc.svg"
+                src="/public/assets/icone/instagramblanc.svg"
                 alt="Instagram"
               />
             </a>
@@ -66,7 +66,7 @@ export default function Header() {
             >
               <img
                 className="icon"
-                src="/src/assets/icone/phoneblanc.svg"
+                src="/public/assets/icone/phoneblanc.svg"
                 alt="Contact"
               />
             </a>

@@ -5,7 +5,7 @@ export default function Footer() {
     <footer>
       <div className="footer">
         <img
-          src="/src/assets/logo/logoblanc.svg"
+          src="/public/assets/logo/logoblanc.svg"
           alt="Logo"
           className="logoc"
         />
@@ -14,20 +14,20 @@ export default function Footer() {
         <a>
           <a>
             <img
-              src="/src/assets/icone/instagramblanc.svg"
+              src="/public/assets/icone/instagramblanc.svg"
               alt="Instagram"
               className="img"
             />
           </a>
           <a>
             <img
-              src="/src/assets/icone/linkedinblanc.svg"
+              src="/public/assets/icone/linkedinblanc.svg"
               alt="LinkedIn"
               className="img"
             />
           </a>
           <img
-            src="/src/assets/icone/githubblanc.svg"
+            src="/public/assets/icone/githubblanc.svg"
             alt="GitHub"
             className="img"
           />

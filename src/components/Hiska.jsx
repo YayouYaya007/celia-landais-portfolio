@@ -3,10 +3,10 @@ import "../styles/Hiska.css";
 function Hiska() {
   return (
     <div className="hiska-container">
-      <img src="/src/assets/video/Hiskafilm.gif" className="gif" />
+      <img src="/public/assets/video/Hiskafilm.mp4" className="gif" />
       <div className="hiska1">
         <img
-          src="/src/assets/logo/hiska.png"
+          src="/public/assets/logo/hiska.png"
           alt="Logo Hiska"
           className="hiska"
         />

@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="containerr">
         <div className="flex">
           <img
-            src="/src/assets/logo/logofin.svg"
+            src="/public/assets/logo/logofin.svg"
             alt="Logo"
             className="logoh"
           />
@@ -16,7 +16,7 @@ export default function Hero() {
 
         <div className="flex1">
           <img
-            src="/src/assets/img/celia.png"
+            src="/public/assets/img/celia.png"
             alt="Photo"
             className="photomoi"
           />
@@ -56,14 +56,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/htmlB.svg"
+                    src="/public/assets/icone/comp/b/htmlB.svg"
                     className="iconeimg"
                   />
                   <p className="p">HTML</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/javascriptB.svg"
+                    src="/public/assets/icone/comp/b/javascriptB.svg"
                     className="iconeimg"
                   />
                   <p className="p">JavaScript</p>
@@ -72,14 +72,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/cssB.svg"
+                    src="/public/assets/icone/comp/b/cssB.svg"
                     className="iconeimg"
                   />
                   <p className="p">CSS</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/figmaB.svg"
+                    src="/public/assets/icone/comp/b/figmaB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Figma</p>
@@ -93,14 +93,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/photoshopB.svg"
+                    src="/public/assets/icone/comp/b/photoshopB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Photoshop</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/illustratorB.svg"
+                    src="/public/assets/icone/comp/b/illustratorB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Illustrator</p>
@@ -109,14 +109,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/cameraB.svg"
+                    src="/public/assets/icone/comp/b/cameraB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Photographie</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/premiereB.svg"
+                    src="/public/assets/icone/comp/b/premiereB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Premiere Pro</p>
@@ -131,14 +131,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/after-effectB.svg"
+                    src="/public/assets/icone/comp/b/after-effectB.svg"
                     className="iconeimg"
                   />
                   <p className="p">After Effect</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/phpB.svg"
+                    src="/public/assets/icone/comp/b/phpB.svg"
                     className="iconeimg"
                   />
                   <p className="p">PHP</p>
@@ -147,14 +147,14 @@ export default function Hero() {
               <div className="duo">
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/pythonB.svg"
+                    src="/public/assets/icone/comp/b/pythonB.svg"
                     className="iconeimg"
                   />
                   <p className="p">Python</p>
                 </div>
                 <div className="icone">
                   <img
-                    src="/src/assets/icone/comp/b/reactB.svg"
+                    src="/public/assets/icone/comp/b/reactB.svg"
                     className="iconeimg"
                   />
                   <p className="p">React</p>
@@ -167,7 +167,7 @@ export default function Hero() {
         <div className="projet">
           <div className="imgr">
             <img
-              src="/src/assets/img/HiskaApercu.png"
+              src="/public/assets/img/HiskaApercu.png"
               alt="img"
               className="imgr2"
             />
@@ -269,7 +269,7 @@ export default function Hero() {
           </div>
           <div className="imgl">
             <img
-              src="/src/assets/img/DApercu.png"
+              src="/public/assets/img/DApercu.png"
               alt="img"
               className="imgl2"
             />

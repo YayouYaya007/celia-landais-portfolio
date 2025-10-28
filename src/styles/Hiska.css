@@ -1,5 +1,5 @@
 .hiska-container {
-  background-image: url("/src/assets/fond/fondhiska.png");
+  background-image: url("/public/assets/fond/fondhiska.png");
   width: 100vw;
   background-repeat: no-repeat;
   background-size: cover;
@@ -47,14 +47,14 @@
 
 @media (max-width: 780px) {
   .hiska-container {
-    background-image: url("/src/assets/fond/fondhiskamobile.png");
+    background-image: url("/public/assets/fond/fondhiskamobile.png");
     width: 100vw;
   }
 }
 
 @media (max-width: 480px) {
   .hiska-container {
-    background-image: url("/src/assets/fond/fondhiskamobile.png");
+    background-image: url("/public/assets/fond/fondhiskamobile.png");
     width: 100vw;
   }
 }
