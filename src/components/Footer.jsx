@@ -4,30 +4,26 @@ export default function Footer() {
   return (
     <footer>
       <div className="footer">
-        <img
-          src="/public/assets/logo/logoblanc.svg"
-          alt="Logo"
-          className="logoc"
-        />
+        <img src="/assets/logo/logoblanc.svg" alt="Logo" className="logoc" />
 
         <p className="h">Venez visiter mes réseaux !</p>
         <a>
           <a>
             <img
-              src="/public/assets/icone/instagramblanc.svg"
+              src="/assets/icone/instagramblanc.svg"
               alt="Instagram"
               className="img"
             />
           </a>
           <a>
             <img
-              src="/public/assets/icone/linkedinblanc.svg"
+              src="/assets/icone/linkedinblanc.svg"
               alt="LinkedIn"
               className="img"
             />
           </a>
           <img
-            src="/public/assets/icone/githubblanc.svg"
+            src="/assets/icone/githubblanc.svg"
             alt="GitHub"
             className="img"
           />

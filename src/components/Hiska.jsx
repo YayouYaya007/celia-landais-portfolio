@@ -3,13 +3,9 @@ import "../styles/Hiska.css";
 function Hiska() {
   return (
     <div className="hiska-container">
-      <img src="/public/assets/video/Hiskafilm.mp4" className="gif" />
+      <img src="/assets/video/Hiskafilm.mp4" className="gif" />
       <div className="hiska1">
-        <img
-          src="/public/assets/logo/hiska.png"
-          alt="Logo Hiska"
-          className="hiska"
-        />
+        <img src="/assets/logo/hiska.png" alt="Logo Hiska" className="hiska" />
         <h2>Publicité fictive, charte graphique & montage vidéo</h2>
       </div>
       <div className="section hiska1bis">

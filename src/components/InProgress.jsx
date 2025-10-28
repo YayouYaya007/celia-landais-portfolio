@@ -15,7 +15,7 @@ export default function InProgress() {
         portfolio à feuilleter.
       </p>
       <a
-        href="/src/assets/doc/Lookbook.pdf"
+        href="/assets/doc/Lookbook.pdf"
         download="Book_Celia_Landais.pdf"
         className="wipbook"
       >
