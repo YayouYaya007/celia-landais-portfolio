@@ -1,0 +1,84 @@
+.wiph2 {
+  margin: 15vw 0vw 3vw 0vw;
+  font-family: "la-bohemienne";
+  font-size: 20vw;
+  line-height: 23vh;
+  color: black;
+}
+.wiptout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wipp {
+  color: black;
+  margin: 3vw 8vw 0vw 8vw;
+  font-family: "Satoshi";
+  font-size: 24px;
+}
+.wippetit {
+  color: rgb(73, 73, 73);
+  margin: 3vw 15vw 2vw 15vw;
+  font-family: "Satoshi";
+  font-size: 17px;
+  line-height: 19px;
+}
+.wipbook {
+  background-color: rgb(188, 139, 235);
+  padding: 1vw 2vw;
+  color: black;
+  margin: 3vw 0vw 10vw 0vw;
+  border-radius: 30vw;
+  width: 20vw;
+  font-family: "Satoshi";
+  font-size: 20px;
+}
+.wipbook:hover {
+  color: rgb(105, 59, 0);
+}
+
+@media (max-width: 1150px) {
+}
+@media (max-width: 980px) {
+  .wiph2 {
+    line-height: 17vh;
+    margin: 20vw 0vw 3vw 0vw;
+  }
+  .wipp {
+    font-size: 20px;
+    margin: 0vw 8vw 2vw 8vw;
+  }
+  .wippetit {
+    margin: 0vw 15vw 2vw 15vw;
+    font-size: 15px;
+    line-height: 19px;
+  }
+  .wipbook {
+    margin: 3vw 0vw 10vw 0vw;
+    width: 20vw;
+    font-size: 16px;
+  }
+}
+@media (max-width: 780px) {
+  .wipp {
+    font-size: 18px;
+    margin: 0vw 10vw 3vw 10vw;
+  }
+  .wiph2 {
+    line-height: 12vh;
+    margin: 30vw 0vw 3vw 0vw;
+  }
+}
+@media (max-width: 480px) {
+  .wipp {
+    font-size: 18px;
+    margin: 3vw 10vw 3vw 10vw;
+  }
+  .wiph2 {
+    line-height: 12vh;
+    margin: 33vw 0vw 3vw 0vw;
+  }
+  .wiptout {
+    padding-bottom: 10vw;
+  }
+}

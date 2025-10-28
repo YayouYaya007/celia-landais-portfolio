@@ -1,0 +1,83 @@
+.footer {
+  background-color: #000000ff;
+  padding: 2vw 10vw;
+  font-family: "Satoshi";
+}
+.h {
+  font-size: 3vh;
+}
+.img {
+  width: 2.5vw;
+  margin-left: -3px;
+  margin-right: 10px;
+  margin-top: -3px;
+}
+.logoc {
+  width: 2.5vw;
+  margin-left: -3px;
+  margin-right: 10px;
+  margin-top: -3px;
+}
+.barre {
+  height: 1px;
+  background-color: #ffff;
+}
+.credit {
+  text-align: center;
+  color: rgba(147, 147, 147, 1);
+}
+.phone {
+  margin-top: 0px;
+}
+
+@media (max-width: 1150px) {
+  .img {
+    width: 3.5vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -3px;
+  }
+  .logoc {
+    width: 5vw;
+    margin-left: 16px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 768px) {
+  .img {
+    width: 5vw;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -3px;
+  }
+  .logoc {
+    width: 7vw;
+    margin-left: 16px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .h {
+    font-size: 2vh;
+  }
+  .footer {
+    font-size: 2vh;
+  }
+  .img {
+    width: 7vw;
+    margin: 2vw auto;
+  }
+  .logoc {
+    margin-top: 3vh;
+    margin-left: 2vw;
+    width: 9vw;
+  }
+  .credit {
+    font-size: 4vw;
+    font-family: "Satoshi";
+  }
+}

@@ -1,0 +1,163 @@
+.header {
+  padding: 2vw 0vw;
+  position: fixed;
+  left: 10vw;
+  top: 0;
+  z-index: 100;
+}
+.container {
+  width: 80vw;
+  border-radius: 60px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+.droite {
+  display: flex;
+  margin-right: 2vw;
+  justify-content: space-between;
+  width: 15vw;
+  position: relative;
+  bottom: -3px;
+}
+.gauche {
+  display: flex;
+  justify-content: space-between;
+  width: 17vw;
+  margin-left: 2vw;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  background-color: black;
+  border-radius: 60px;
+  padding: 5px 20px;
+  width: 70vw;
+  justify-content: space-between;
+  gap: 30px;
+}
+.link1 {
+  color: #ffffffff;
+  font-family: "Satoshi";
+  text-decoration: none;
+  font-size: 20px;
+  transition: color 0.3s;
+}
+.link {
+  color: #ffffffff;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+.icon {
+  width: 28px;
+}
+
+@media (max-width: 1150px) {
+  .nav {
+    width: 65vw;
+  }
+  .gauche {
+    margin-left: 1vw;
+  }
+  .droite {
+    width: auto;
+    margin-right: 1vw;
+    gap: 1.5vw;
+  }
+  .linktext {
+    font-size: 16px;
+  }
+  .linkimg {
+    width: 45px;
+  }
+  .icon {
+    width: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 85vw;
+    margin: auto;
+  }
+  .nav {
+    background: #000000ff;
+
+    gap: 15px;
+  }
+  .gauche,
+  .droite {
+    justify-content: center;
+    margin: 0;
+  }
+  .droite {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-right: 0;
+  }
+  .linktext {
+    font-size: 18px;
+    font-family: "Satoshi", sans-serif;
+  }
+
+  .icon {
+    width: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logoimg {
+    width: 10vw;
+  }
+  .nav {
+    width: 60vw;
+  }
+  .header {
+    left: 0vw;
+  }
+  .container {
+    width: 85vw;
+    margin: 0px 8vw;
+  }
+  .droite {
+    gap: 2vw;
+  }
+  .link1 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 300px) {
+  .logoimg {
+    width: 10vw;
+  }
+  .icon {
+    width: 20px;
+  }
+  .nav {
+    width: 60vw;
+  }
+  .header {
+    left: 0vw;
+  }
+  .container {
+    width: 85vw;
+    margin: 0px 8vw;
+  }
+  .droite {
+    gap: 2vw;
+  }
+  .link1 {
+    font-size: 15px;
+  }
+}
