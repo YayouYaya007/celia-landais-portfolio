@@ -6,7 +6,8 @@
   align-items: center;
   justify-content: center;
   color: #000000ff;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
 }
 .containerr {
   display: flex;
@@ -17,7 +18,7 @@
   padding: 0 20px;
 }
 .title {
-  font-family: "la-bohemienne";
+  font-family: "la-bohemienne", cursive, sans-serif;
   font-size: 50vh;
   font-weight: bold;
 }
@@ -30,7 +31,7 @@
   top: -10vh;
 }
 .h2 {
-  font-family: "la-bohemienne";
+  font-family: "la-bohemienne", cursive, sans-serif;
   font-size: 15vh;
 }
 .projet,
@@ -142,12 +143,12 @@
 }
 .pp2 {
   font-size: 30vh;
-  font-family: "la-bohemienne";
+  font-family: "la-bohemienne", cursive, sans-serif;
   line-height: 1.5;
 }
 .pp3 {
   font-size: 15vh;
-  font-family: "cofo-raffine";
+  font-family: "cofo-raffine", "Helvetica Neue", Arial, sans-serif;
   font-weight: 300;
   line-height: 1.8;
 }

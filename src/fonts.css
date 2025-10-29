@@ -1,18 +1,24 @@
+/* Polices Satoshi */
 @font-face {
   font-family: "SatoshiLight";
   src: url("/assets/font/Satoshi.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
 }
+
 @font-face {
   font-family: "SatoshiBold";
   src: url("/assets/font/Satoshi.ttf") format("truetype");
-  font-weight: 800;
+  font-weight: 900;
   font-style: normal;
+  font-display: swap;
 }
+
 @font-face {
   font-family: "Satoshi";
   src: url("/assets/font/Satoshi.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
+  font-display: swap;
 }

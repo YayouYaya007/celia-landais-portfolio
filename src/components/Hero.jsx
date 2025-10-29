@@ -176,7 +176,8 @@ export default function Hero() {
               className=""
               style={{
                 fontSize: "2.6vh",
-                fontFamily: "Satoshi",
+                fontFamily:
+                  "Satoshi, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif",
                 margin: "-2vh 0 0 0",
               }}
             >
@@ -185,7 +186,7 @@ export default function Hero() {
             <h3
               className=""
               style={{
-                fontFamily: "la-bohemienne, sans-serif",
+                fontFamily: "la-bohemienne, cursive, sans-serif",
                 fontSize: "5vh",
                 lineHeight: "30px",
               }}
@@ -225,7 +226,8 @@ export default function Hero() {
               className=""
               style={{
                 fontSize: "2.6vh",
-                fontFamily: "Satoshi",
+                fontFamily:
+                  "Satoshi, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif",
                 margin: "-2vh 0 0 0",
               }}
             >
@@ -233,7 +235,7 @@ export default function Hero() {
             </p>{" "}
             <h3
               style={{
-                fontFamily: "la-bohemienne, sans-serif",
+                fontFamily: "la-bohemienne, cursive, sans-serif",
                 fontSize: "5vh",
                 lineHeight: "30px",
               }}

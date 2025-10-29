@@ -5,7 +5,8 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   font-size: 1.5vw;
   z-index: -2;
 }

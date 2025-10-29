@@ -1,6 +1,6 @@
 .wiph2 {
   margin: 15vw 0vw 3vw 0vw;
-  font-family: "la-bohemienne";
+  font-family: "la-bohemienne", cursive, sans-serif;
   font-size: 20vw;
   line-height: 23vh;
   color: black;
@@ -13,13 +13,15 @@
 .wipp {
   color: black;
   margin: 3vw 8vw 0vw 8vw;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   font-size: 24px;
 }
 .wippetit {
   color: rgb(73, 73, 73);
   margin: 3vw 15vw 2vw 15vw;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   font-size: 17px;
   line-height: 19px;
 }
@@ -30,7 +32,8 @@
   margin: 3vw 0vw 10vw 0vw;
   border-radius: 30vw;
   width: 20vw;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
   font-size: 20px;
 }
 .wipbook:hover {

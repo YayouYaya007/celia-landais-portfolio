@@ -1,7 +1,8 @@
 .footer {
   background-color: #000000ff;
   padding: 2vw 10vw;
-  font-family: "Satoshi";
+  font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
 }
 .h {
   font-size: 3vh;
@@ -78,6 +79,7 @@
   }
   .credit {
     font-size: 4vw;
-    font-family: "Satoshi";
+    font-family: "Satoshi", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
   }
 }
