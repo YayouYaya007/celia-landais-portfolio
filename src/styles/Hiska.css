@@ -47,14 +47,14 @@
 
 @media (max-width: 780px) {
   .hiska-container {
-    background-image: url("/assets/fond/fondhiskamobile.png");
+    background-image: url("/public/assets/fond/fondhiskamobile.png");
     width: 100vw;
   }
 }
 
 @media (max-width: 480px) {
   .hiska-container {
-    background-image: url("/assets/fond/fondhiskamobile.png");
+    background-image: url("/public/assets/fond/fondhiskamobile.png");
     width: 100vw;
   }
 }

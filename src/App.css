@@ -6,7 +6,7 @@
   text-align: center;
 }
 .fond {
-  background-image: url("/assets/fond/FondClair.png");
+  background-image: url("/public/assets/fond/FondClair.png");
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -52,7 +52,7 @@
 
 @media (max-width: 480px) {
   .fond {
-    background-image: url("/assets/fond/FondMobileClair.png");
+    background-image: url("/public/assets/fond/FondMobileClair.png");
   }
   #root {
     width: 100%;
