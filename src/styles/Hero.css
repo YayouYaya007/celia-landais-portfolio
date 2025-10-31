@@ -128,6 +128,9 @@
 .photomoi {
   width: 75vh;
 }
+.pp {
+  font-size: 4vh;
+}
 .pp1 {
   font-size: 4vh;
   position: relative;
@@ -232,7 +235,8 @@
     gap: 5vh;
     margin-bottom: 15vh;
   }
-  .p {
+  .p,
+  .pp {
     font-size: 3vh;
   }
   .h3 {
@@ -308,7 +312,8 @@
     flex-wrap: wrap;
     align-items: flex-start;
   }
-  .p {
+  .p,
+  .pp {
     font-size: 2.5vh;
   }
   .h3 {
@@ -385,7 +390,8 @@
     gap: 7vh;
     margin-bottom: 15vh;
   }
-  .p {
+  .p,
+  .pp {
     font-size: 2.5vh;
   }
   .h3 {
@@ -474,6 +480,9 @@
     flex-direction: column;
     gap: 0px;
     margin-bottom: 10vh;
+  }
+  .pp {
+    font-size: 2vh;
   }
   .h3 {
     font-size: 3vh;

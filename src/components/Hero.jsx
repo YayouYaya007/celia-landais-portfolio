@@ -193,12 +193,7 @@ export default function Hero() {
             >
               Production audiovisuelle & création visuelle
             </h3>{" "}
-            <p
-              style={{
-                fontSize: "2.5vh",
-                lineHeight: "30px",
-              }}
-            >
+            <p className="pp">
               HISKA est une publicité fictive de chocolat que j’ai imaginée et
               réalisée de A à Z, depuis la création de la marque jusqu’au
               montage final. J’ai conçu toute la charte graphique et assuré le
@@ -215,11 +210,7 @@ export default function Hero() {
         </div>
         <div className="projet2">
           <div className="ficher">
-            <h3
-              style={{
-                fontSize: "3vh",
-              }}
-            >
+            <h3 className="pp">
               🎨 YayouYaya — Ma direction artistique personnelle
             </h3>{" "}
             <p
