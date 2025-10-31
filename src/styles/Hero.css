@@ -49,16 +49,11 @@
   width: 50%;
   text-align: right;
 }
-.imgl {
-  width: fit-content;
-}
+.imgl,
 .imgr {
   width: fit-content;
 }
-.imgl2 {
-  width: 30vw;
-  border-radius: 30px;
-}
+.imgl2,
 .imgr2 {
   width: 30vw;
   border-radius: 30px;
@@ -80,7 +75,7 @@
 }
 .funfont {
   font-weight: 580;
-  font-size: 3.5vh;
+  font-size: 4.5vh;
   display: inline-block;
   background: linear-gradient(
     67deg,
@@ -153,7 +148,7 @@
   line-height: 1.8;
 }
 .aboutme {
-  font-size: 3vh;
+  font-size: 4vh;
   padding: 3vw 20vw 13vw 20vw;
 }
 .h3 {
@@ -207,7 +202,7 @@
     right: 3vw;
   }
   .pp1 {
-    font-size: 4vh;
+    font-size: 3vh;
     right: 10vh;
     margin: 0vh 0vh -1vh 0vh;
   }
@@ -238,7 +233,7 @@
     margin-bottom: 15vh;
   }
   .p {
-    font-size: 2.5vh;
+    font-size: 3vh;
   }
   .h3 {
     font-size: 4vh;
@@ -295,12 +290,12 @@
     left: 8vh;
   }
   .aboutme {
-    font-size: 3vh;
+    font-size: 2.5vh;
     width: 60vw;
     margin: 15vh 0vh;
   }
   .funfont {
-    font-size: 3.5vh;
+    font-size: 3vh;
   }
   .h2 {
     font-size: 10vh;
@@ -360,7 +355,7 @@
     width: 40vh;
   }
   .pp1 {
-    font-size: 3vh;
+    font-size: 2.5vh;
     right: 10vh;
     margin: 0vh 0vh -1vh 0vh;
   }
@@ -375,12 +370,12 @@
     left: 8vh;
   }
   .aboutme {
-    font-size: 3vh;
+    font-size: 2.5vh;
     width: 60vw;
     margin: 15vh 0vh;
   }
   .funfont {
-    font-size: 3.5vh;
+    font-size: 3vh;
   }
   .h2 {
     font-size: 10vh;
@@ -449,7 +444,7 @@
     width: 40vh;
   }
   .pp1 {
-    font-size: 3vh;
+    font-size: 2vh;
     right: 15vh;
     margin: 0vh 0vh -2vh 0vh;
   }
