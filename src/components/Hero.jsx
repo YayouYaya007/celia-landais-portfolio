@@ -233,12 +233,7 @@ export default function Hero() {
             >
               Identité visuelle & design graphique
             </h3>{" "}
-            <p
-              style={{
-                fontSize: "2.5vh",
-                lineHeight: "30px",
-              }}
-            >
+            <p className="pp">
               Ce projet est ma première direction artistique complète, une
               recherche autour de mon univers personnel. J’ai imaginé mon logo,
               mes typographies, mes couleurs fétiches (rose, jaune, violet) et
